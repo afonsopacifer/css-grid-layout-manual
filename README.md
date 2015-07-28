@@ -1,7 +1,10 @@
 #CSS Grid Layout - Manual
+
+> OBS: Este manual utiliza a versão da [especificação publicada como Working Draft em 17 de março de 2015.](http://www.w3.org/TR/css-grid-1/)
+
 ##Índice
-- O que é CSS Grid Layout?
-- Termonilogia
+- [Intrudução](#introducao)
+- [Termonilogia](#termonilogia)
   - Grid Lines
   - Grid Tracks
   - Grid Cells
@@ -13,10 +16,41 @@
 - Nomeando as areas
 - Support
 
-###O que é CSS Grid Layout?
-> [CSS Grid Layout Module Level 1](http://www.w3.org/TR/css-grid-1/)
-
+###Intrudução
 Um novo modulo CSS3 que define um grid otimizado para interfaces.
 
-### Licença
+###Termonilogia
+Nesta seção aprenderemos quais são os novos termos que vem junto com a especificação, esses termos são esencias para entendermos melhor como funciona o grid layout.
+
+####Grid Lines
+*Em breve*
+
+####Grid Tracks
+*Em breve*
+
+####Grid Cells
+*Em breve*
+
+####Grid Areas
+*Em breve*
+
+###Grid Container
+*Em breve*
+
+###Line-Based placement
+*Em breve*
+
+###Line-Based positioning
+*Em breve*
+
+###fr
+*Em breve*
+
+###Nomeando as areas
+*Em breve*
+
+###Support
+*Em breve*
+
+## Licença
 [MIT Licence](licence.md) © Afonso Pacifer
