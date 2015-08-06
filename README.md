@@ -17,10 +17,10 @@
 - Support
 
 ### Intrudução
-Um novo modulo CSS3 que define um grid otimizado para interfaces.
+Um novo modulo CSS3 que define um grid nativo otimizado para construção de interfaces.
 
 ### Termonilogia
-Nesta seção aprenderemos quais são os novos termos que vem junto com a especificação, esses termos são esencias para entendermos melhor como funciona o grid layout.
+Nesta seção aprenderemos quais são os novos termos que vem junto com a especificação, esses termos serão muito importantes para entendermos melhor como funciona o grid layout.
 
 #### Grid Lines
 ![](img/grid-lines.png)
@@ -57,6 +57,9 @@ Elas podem ser referenciadas pelo índice numérico, ou por um nome especificado
 
 ### Support
 *Em breve*
+
+## Referências
+- [Learning CSS Grid Layout](https://github.com/afonsopacifer/learning-css-grid-layout)
 
 ## Licença
 [MIT Licence](licence.md) © Afonso Pacifer
