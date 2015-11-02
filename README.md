@@ -23,7 +23,7 @@ Um novo modulo CSS3 que define um grid nativo otimizado para construção de int
 Nesta seção aprenderemos quais são os novos termos que vem junto com a especificação, esses termos serão muito importantes para entendermos melhor como funciona o grid layout.
 
 #### Grid Lines
-![](img/grid-lines.png)
+![Grid Lines](img/grid-lines.png)
 
 **Definição:** É a linha que existe em ambos os lados de uma row ou column.
 
@@ -62,4 +62,4 @@ Elas podem ser referenciadas pelo índice numérico, ou por um nome especificado
 - [Learning CSS Grid Layout](https://github.com/afonsopacifer/learning-css-grid-layout)
 
 ## Licença
-[MIT Licence](licence.md) © Afonso Pacifer
+[MIT Licence](licence.md) © [Afonso Pacifer](http://afonsopacifer.com/)
