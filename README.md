@@ -54,7 +54,24 @@ Elas podem ser referenciadas pelo índice numérico, ou por um nome especificado
 **Definição:** Um espoço contendo um ou mais Grid Items.
 
 ### Grid Container
-*Em breve*
+Um novo valor para a propriedade display :)
+
+#### grid
+Cria um elemento que se comporta como `block` e transforma seus elementos filhos em `Grid Items`.
+
+```css
+.container {
+  display: grid;
+}
+```
+#### inline-grid
+Cria um elemento que se comporta como `inline-block` e transforma seus elementos filhos em `Grid Items`.
+
+```css
+.container {
+  display: inline-grid;
+}
+```
 
 ### Line-Based placement
 *Em breve*
