@@ -92,4 +92,4 @@ Cria um elemento que se comporta como `inline-block` e transforma seus elementos
 - [Learning CSS Grid Layout](https://github.com/afonsopacifer/learning-css-grid-layout)
 
 ## Licença
-[MIT Licence](licence.md) © [Afonso Pacifer](http://afonsopacifer.com/)
+[MIT License](license.md) © [Afonso Pacifer](http://afonsopacifer.com/)
