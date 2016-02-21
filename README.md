@@ -4,7 +4,7 @@
 
 ## Índice
 
-- [Intrudução](#introducao)
+- [Introdução](#introducao)
 - [Termonilogia](#termonilogia)
   - [Grid Lines](#grid-lines)
   - [Grid Tracks](#grid-tracks)
@@ -17,7 +17,7 @@
 - Nomeando as areas
 - Support
 
-### Intrudução
+### Introdução
 
 Um novo modulo CSS3 que define um grid nativo otimizado para construção de interfaces.
 
